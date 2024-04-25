@@ -1,0 +1,3 @@
+[submodule "pokenext"]
+	path = pokenext
+	url = ../pokenext
